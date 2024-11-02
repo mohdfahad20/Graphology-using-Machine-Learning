@@ -24,9 +24,3 @@ This project dives into the study of graphology to predict personality traits us
   <li><strong>Libraries</strong>: NumPy, Pandas, TensorFlow/Keras, OpenCV</li>
   <li><strong>Model</strong>: Convolutional Neural Network (CNN)</li>
 </ul>
-
-<h2>Future Enhancements</h2>
-<ul>
-  <li>Expand dataset diversity for broader handwriting representation.</li>
-  <li>Integrate NLP techniques for deeper personality insights.</li>
-</ul>
